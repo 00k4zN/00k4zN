@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/00k4zN/00k4zN/blob/main/wolfcapital-wolfcapital-hacker.gif" />
+</p>
 <h1 align="center">Hi 👋, I'm Ozkan Yavuz</h1>
 <h3 align="center">"EAT SLEEP CODE REPEAT"</h3>
 
