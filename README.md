@@ -70,6 +70,9 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
   </a>
+  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Pi"/>
+  </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="arduino"/>
   </a>
