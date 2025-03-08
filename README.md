@@ -21,7 +21,6 @@
 ## 🚀 About Me
 
 - 🌱 Currently learning: **jQuery**
-- 💬 Ask me about: **Python, JavaScript, Web Development**
 
 ## 📫 Contact
 
