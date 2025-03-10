@@ -51,6 +51,9 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
   </a>
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   </a>
@@ -77,30 +80,19 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=00k4zn&show_icons=true&locale=en&layout=compact&hide_border=true&langs_count=10&width=300" alt="Top Languages Used" />
-  <img src="https://github-readme-stats.vercel.app/api?username=00k4zn&show_icons=true&locale=en&hide_border=true&count_private=true&width=300" alt="GitHub Stats" />
-</div>
-
-
-
-
-
 
 ## 📌 Featured Projects
-
 <div align="center">
   <a href="https://github.com/00k4zN/to-do-list">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=00k4zn&repo=to-do-list&hide_border=true" alt="To-Do List" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=00k4zn&repo=to-do-list&hide_border=true" alt="To-Do List" />
   </a>
   <a href="https://github.com/00k4zN/Service-Robot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=00k4zn&repo=Service-Robot&hide_border=true" alt="Service-Robot" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=00k4zn&repo=Service-Robot&hide_border=true" alt="Service-Robot" />
   </a>
   <a href="https://github.com/00k4zN/Decision-Support-System-for-Cargo-Company">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=00k4zn&repo=Decision-Support-System-for-Cargo-Company&hide_border=true" alt="Decision-Support-System-for-Cargo-Company" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=00k4zn&repo=Decision-Support-System-for-Cargo-Company&hide_border=true" alt="Decision-Support-System-for-Cargo-Company" />
   </a>
   <a href="https://github.com/00k4zN/Weather-Station">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=00k4zn&repo=Weather-Station&hide_border=true" alt="Weather-Station" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=00k4zn&repo=Weather-Station&hide_border=true" alt="Weather-Station" />
   </a>
 </div>
